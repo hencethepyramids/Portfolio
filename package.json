@@ -24,7 +24,8 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4",
     "webpack": "^4.19.1",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-dev-server": "^4.15.1",
+    "@babel/plugin-proposal-private-property-in-object": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
