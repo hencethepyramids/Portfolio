@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="logo1.svg" src="logo1.svg">
+![Logo](./logo1.svg)
 
 Built using:
 
