@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="rIven_2" src="rIven_2.jpg.html">
+<img width="1266" alt="rIven_2" src="logo1.svg">
 
 Built using:
 
