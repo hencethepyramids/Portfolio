@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Logo](./Portfolio/public/assets/img/logo1.svg)
+![Logo](./src/assets/img/logo1.svg)
 
 Built using:
 
